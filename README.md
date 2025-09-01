@@ -1,4 +1,4 @@
-#🌸 Iris Flower Classification using Logistic Regression
+🌸 Iris Flower Classification using Logistic Regression
 🎯 Objective
 
 The goal of this project is to classify Iris flower species (Setosa, Versicolor, Virginica) using the Logistic Regression algorithm. The model achieved 96% accuracy.
